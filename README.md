@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Corrêa</h1>
+<h1 align="center">cofee ☕</h1>
 
 <p align="center">
    · Aprendiz de Desenvolvedor Full Stack ·
