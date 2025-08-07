@@ -6,10 +6,10 @@
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-
+<
 ## Sobre
 
 - Atuação em desenvolvimento full stack com JavaScript e TypeScript
@@ -18,7 +18,7 @@
 - Pós-graduação em Engenharia de Software e Digital Product Leadership
 - Experiência em automação de processos e integração de sistemas utilizando Python
 
-## Projetos em destaque
+## Sem projetos em destaque... Ainda.
 
 - [Toque AI](https://toqueai.com.br/) – Plataforma de QR Code para identificação e gestão de pets, pessoas e objetos
 - [Suporte de Domingo](https://suportededomingo.com.br/) – Soluções digitais e agendamento personalizado
@@ -26,10 +26,8 @@
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucascorreaa/)
-- [Suporte de Domingo](https://suportededomingo.com.br/)
-- [Portfólio](https://professorcorrea.com.br/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/professorcorrea)
+- [Discord](https://www.discord.gg/muuuuuuuuuuuuuuu)
+- [Instagram - k_cofee_](https://www.instagram.com/k_cofee_)
 
 ---
 
