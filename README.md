@@ -1,4 +1,4 @@
-<h1 align="center">cofee ☕</h1>
+<!-- <h1 align="center">cofee ☕</h1>
 
 <p align="center">
    · Aprendiz de Desenvolvedor Full Stack ·
@@ -14,6 +14,7 @@
 
 - Estudando atualmente Sistemas p/Internet <!--- colocar mais dps -->
 
+<!--
 ## Sem projetos em destaque... Ainda.
 
 ## Contato
@@ -23,4 +24,4 @@
 
 ---
 
-> Educar é tornar o saber algo com voz, sentido e sentimento. <!--- trocar texto dps --> 
+> Educar é tornar o saber algo com voz, sentido e sentimento. -->
