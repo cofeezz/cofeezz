@@ -1,4 +1,3 @@
-<!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=0.1&color=C9A84C&center=true&vCenter=true&width=600&lines=cof;mid+developer" alt="Typing SVG"/>
 </div>
@@ -21,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
 
-
+<!-- blaa 😝-->
 </div>
 
 ---
