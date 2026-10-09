@@ -7,7 +7,6 @@
 
 <div align="center">
 
-![Ruby](https://img.shields.io/badge/Ruby-111?style=for-the-badge&logo=ruby&logoColor=c9a84c)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=c9a84c)
